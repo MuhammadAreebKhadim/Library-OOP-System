@@ -21,13 +21,11 @@ This project is mainly built to demonstrate:
 - **Encapsulation Concept**
 - **Non-Persistent Data Structures**
 
+## Run the Program
+    ```bash
+     python library.py
 
-🛠️ Requirements
+## Requirements
 ```bash
+  pip install emoji
 
-pip install emoji
-
-Run the Program
-```bash
-
-python library.py
