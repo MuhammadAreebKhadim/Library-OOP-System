@@ -1,7 +1,7 @@
 #  Library Management System (Python OOP)
 
 This is a simple **Object-Oriented Python project** that represents a basic library system.  
-You can add books, count total books, and display them — with or without emojis for a fun touch 
+You can add books, count total books, and display them with or without emojis for a fun touch 
 
 
 ##  Features
